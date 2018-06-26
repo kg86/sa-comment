@@ -73,7 +73,7 @@ In my experience, it sometimes occurs that essentially same algorithms are propo
 I describe time series of my research, and put some evidence supporting the facts in the previous section. 
 
 - June 25, 2016: The research started.
-  - I talked with a doctoral student (at this time), and he asked me whether a phi array, which is a similar array to a suffix array, can be computed in-place by extending my algorithm I proposed before. I answered it seemed difficult because my algorithm is based on Nong's suffix array construction algorithm, and we can probably compute the suffix array in-place which is considered as a difficult problem if we can compute the phi array in-place.
+  - I talked with Dominik Köppl who was a doctoral student at this time, and he asked me whether a phi array, which is a similar array to a suffix array, can be computed in-place by extending my algorithm I proposed before. I answered it seemed difficult because my algorithm is based on Nong's suffix array construction algorithm, and we can probably compute the suffix array in-place which is considered as a difficult problem if we can compute the phi array in-place.
     At the midnight of the day, I remembered this talk again, and I am interested in this difficult problem and started research.
 - July 20, 2016: My algorithm was almost developed, and started writing.
   - I developed an in-place suffix array construction algorithm (although it was not sophisticated at this time). I told that to my supervisors when I was a student by e-mail, and ask them for validating my algorithm. Moreover, I made a repository and started writing on it.
